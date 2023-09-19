@@ -16,9 +16,9 @@ Each patient in each tumor category has the same naming format, such as
 
         |  t1ce.nii.gz
 
-        |  flair_seg.nii.gz
+        |  seg.nii.gz
    
-In this case, *001* is the patient number, *Glioma* is the tumor category, and *AYEY* is the center ID. 
+In this case, *001* is the patient number, *Glioma* is the tumor category, *AYEY* is the center ID, and *seg* is the segmentation mask. 
 
 ### Download 
 The data can be downloaded from this **[link](https://drive.google.com/drive/folders/1eCLw3d3jM9JVWe8MbDyQRWv9pcXzItwi?usp=sharing)**. 
