@@ -1,7 +1,7 @@
 
 -----------------------------------------
 
-This is a tutorial about the publicly multi-parametric MRI dataset for multi-source brain tumor characterization.
+This is a tutorial about the publicly multi-parametric MRI dataset for **multi-source brain tumor characterization**.
 
 ### Data format
 Each patient in each tumor category has the same naming format, such as  
