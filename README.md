@@ -3,6 +3,10 @@
 
 This is a tutorial about the publicly multi-parametric MRI dataset for **multi-source brain tumor characterization**.
 
+### Download 
+The dataset can be downloaded from this **[Harvard Dataverse repository](https://doi.org/10.7910/DVN/KUUEWC)**. 
+
+
 ### Data format
 Each patient in each tumor category has the same naming format, such as  
 
@@ -20,5 +24,3 @@ Each patient in each tumor category has the same naming format, such as
    
 In this case, *001* is the patient number, *Glioma* is the tumor category, *AYEY* is the center ID, and *seg* is the segmentation mask. 
 
-### Download 
-The data can be downloaded from this **[link](https://doi.org/10.7910/DVN/KUUEWC)**. 
