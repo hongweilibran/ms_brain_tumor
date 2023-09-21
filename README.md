@@ -1,7 +1,7 @@
 
 -----------------------------------------
 
-This is a tutorial about the publicly multi-parametric MRI dataset for **multi-source brain tumor characterization**.
+This is a tutorial about the publicly multi-parametric MRI dataset for **multi-origin brain tumor characterization**.
 
 ### Download 
 The dataset can be downloaded from this **[Harvard Dataverse repository](https://doi.org/10.7910/DVN/KUUEWC)**. 
